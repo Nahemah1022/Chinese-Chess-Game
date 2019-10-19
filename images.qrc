@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>src/images/棋盤.png</file>
+        <file>src/images/紅兵.png</file>
+        <file>src/images/紅士.png</file>
+        <file>src/images/紅帥.png</file>
+        <file>src/images/紅炮.png</file>
+        <file>src/images/紅相.png</file>
+        <file>src/images/紅車.png</file>
+        <file>src/images/紅馬.png</file>
+        <file>src/images/黑卒.png</file>
+        <file>src/images/黑士.png</file>
+        <file>src/images/黑將.png</file>
+        <file>src/images/黑炮.png</file>
+        <file>src/images/黑象.png</file>
+        <file>src/images/黑車.png</file>
+        <file>src/images/黑馬.png</file>
+        <file>src/images/燈泡.png</file>
+        <file>src/images/亮燈泡.png</file>
+        <file>src/images/暗燈泡.png</file>
+        <file>src/images/loser.png</file>
+        <file>src/images/封面.jpg</file>
+        <file>src/images/封面2.jpg</file>
+        <file>src/images/破燈泡.png</file>
+        <file>src/images/setting.png</file>
+    </qresource>
+</RCC>
